@@ -1,0 +1,7 @@
+{
+  "name": "FabTally OnChain",
+  "description": "Pay-once, no-subscription crypto tax & safety endpoints. Flagship: one-off wallet PnL / tax-CSV export — paste one address, get realized gains (FIFO/LIFO over full on-chain history, historical USD pricing) as a downloadable CSV for $3, no annual plan. Plus $0.01 human-readable transaction decoding. Read-only, stateless, x402 USDC on Base.",
+  "logoUrl": "/logos/fabtally-onchain.png",
+  "websiteUrl": "https://onchain.fabtally.com",
+  "category": "Services/Endpoints"
+}
