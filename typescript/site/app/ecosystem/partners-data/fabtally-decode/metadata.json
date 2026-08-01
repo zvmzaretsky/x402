@@ -1,0 +1,7 @@
+{
+  "name": "FabTally Decode",
+  "description": "Per-call decoding reads that turn raw EVM bytes into human-readable JSON, no ABI required. decode-log ($0.003) maps event LOGS to event name + typed named args (handling tuple/array/nested/anonymous/indexed cases); decode-calldata ($0.002) maps a function call to signature + typed args; selector-lookup ($0.001) resolves a 4-byte selector or event topic to a signature; abi-fetch ($0.002) returns a verified ABI with proxy resolution via Sourcify/Blockscout. Read-only, keyless, stateless; each has a rate-limited free teaser. Chains: ethereum, base, arbitrum, optimism, polygon, bsc. x402 USDC on Base; also an MCP server at decode.fabtally.com/mcp.",
+  "logoUrl": "/logos/fabtally-decode.png",
+  "websiteUrl": "https://decode.fabtally.com",
+  "category": "Services/Endpoints"
+}

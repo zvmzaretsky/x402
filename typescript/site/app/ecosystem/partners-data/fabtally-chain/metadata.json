@@ -1,0 +1,7 @@
+{
+  "name": "FabTally Chain",
+  "description": "Cheap per-call on-chain monitoring reads an AI agent or dev polls. ens-expiry ($0.001) resolves an ENS/Basename registration expiry + grace period on-chain; gas ($0.001) returns live base + priority fee for a chain with an optional at/below-threshold check; token-unlocks ($0.003) returns the next vesting/unlock event from DefiLlama's public emissions data; oracle-health ($0.003) reports a Chainlink feed's staleness/round health/deviation. Read-only, keyless, stateless; each has a rate-limited free teaser. Market-data reads only, never signals or price predictions. x402 USDC on Base; also an MCP server at chain.fabtally.com/mcp.",
+  "logoUrl": "/logos/fabtally-chain.png",
+  "websiteUrl": "https://chain.fabtally.com",
+  "category": "Services/Endpoints"
+}
