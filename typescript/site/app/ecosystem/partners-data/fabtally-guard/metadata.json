@@ -1,0 +1,7 @@
+{
+  "name": "FabTally Guard",
+  "description": "De-risk-a-dollar verification checks an AI agent runs before a costly action. deps-check ($0.003) vets a package for CVEs/typosquats/deprecation before you install it; x402-preflight ($0.002) verifies another x402 endpoint's 402 challenge and price before you pay it; json-repair ($0.002) coerces near-miss LLM JSON to a schema; url-read ($0.004) turns a public URL into clean Markdown for RAG. Read-only, stateless, holds no private key. x402 USDC on Base; also an MCP server at guard.fabtally.com/mcp.",
+  "logoUrl": "/logos/fabtally-guard.png",
+  "websiteUrl": "https://guard.fabtally.com",
+  "category": "Services/Endpoints"
+}

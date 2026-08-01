@@ -1,0 +1,7 @@
+{
+  "name": "FabTally Safe",
+  "description": "Read-only crypto safety & \"what am I signing\" verification for agents and wallets. token-safety ($0.02) is a multi-chain honeypot/rug check aggregating GoPlus + honeypot.is into a 0-100 risk score; decode-signature ($0.01) decodes EIP-712 / Permit / Permit2 / Seaport typed-data into plain English with drainer risk flags; approvals ($0.01) scans wallet allowances and returns self-executed revoke calldata; simulate ($0.02) runs a keyless pre-sign transaction analysis. Never holds, signs, or broadcasts funds. x402 USDC on Base; also an MCP server at safe.fabtally.com/mcp.",
+  "logoUrl": "/logos/fabtally-safe.png",
+  "websiteUrl": "https://safe.fabtally.com",
+  "category": "Services/Endpoints"
+}
