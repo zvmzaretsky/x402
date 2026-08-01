@@ -1,0 +1,7 @@
+{
+  "name": "FabTally EmailAuth",
+  "description": "Scriptable DMARC/SPF/DKIM email-authentication validation for CI/CD and agents — a pay-per-call alternative to MX Toolbox. Full check returns per-mechanism PASS/WARN/FAIL with a plain-English summary and fix hints ($0.003; single-mechanism $0.001). DNS-only, read-only, stateless, no PII. x402 USDC on Base; also a GitHub Action.",
+  "logoUrl": "/logos/fabtally-emailauth.png",
+  "websiteUrl": "https://emailauth.fabtally.com",
+  "category": "Services/Endpoints"
+}
