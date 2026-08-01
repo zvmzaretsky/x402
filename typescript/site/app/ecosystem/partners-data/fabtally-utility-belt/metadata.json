@@ -1,0 +1,7 @@
+{
+  "name": "FabTally Utility Belt",
+  "description": "One reliable bundle of 13 deterministic micro-utilities AI agents call constantly — timezone/DST, cron, iCal RRULE, unit & live currency convert, backtracking-safe regex, text diff, JSON-Schema (2020-12) validate, hash/encode/ID, business-day date math. 6 free, 7 paid at $0.001/call via x402 USDC on Base. Also an MCP server at belt.fabtally.com/mcp. No API keys, holds no private key.",
+  "logoUrl": "/logos/fabtally-utility-belt.png",
+  "websiteUrl": "https://belt.fabtally.com",
+  "category": "Services/Endpoints"
+}
